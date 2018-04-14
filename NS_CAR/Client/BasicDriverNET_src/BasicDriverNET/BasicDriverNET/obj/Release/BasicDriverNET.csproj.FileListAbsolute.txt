@@ -1,0 +1,6 @@
+D:\Home\jez04\Projekty\Hut_neural\BasicDriverNET\BasicDriverNET\bin\Release\BasicDriverNET.exe.config
+D:\Home\jez04\Projekty\Hut_neural\BasicDriverNET\BasicDriverNET\bin\Release\BasicDriverNET.exe
+D:\Home\jez04\Projekty\Hut_neural\BasicDriverNET\BasicDriverNET\bin\Release\BasicDriverNET.pdb
+D:\Home\jez04\Projekty\Hut_neural\BasicDriverNET\BasicDriverNET\obj\Release\BasicDriverNET.csprojResolveAssemblyReference.cache
+D:\Home\jez04\Projekty\Hut_neural\BasicDriverNET\BasicDriverNET\obj\Release\BasicDriverNET.exe
+D:\Home\jez04\Projekty\Hut_neural\BasicDriverNET\BasicDriverNET\obj\Release\BasicDriverNET.pdb

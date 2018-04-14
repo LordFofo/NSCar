@@ -1,0 +1,5 @@
+C:\Users\admin\Downloads\BasicDriverNET_src\BasicDriverNET\NeuronSite\bin\Debug\NeuronSite.dll
+C:\Users\admin\Downloads\BasicDriverNET_src\BasicDriverNET\NeuronSite\bin\Debug\NeuronSite.pdb
+C:\Users\admin\Downloads\BasicDriverNET_src\BasicDriverNET\NeuronSite\obj\Debug\NeuronSite.csprojResolveAssemblyReference.cache
+C:\Users\admin\Downloads\BasicDriverNET_src\BasicDriverNET\NeuronSite\obj\Debug\NeuronSite.dll
+C:\Users\admin\Downloads\BasicDriverNET_src\BasicDriverNET\NeuronSite\obj\Debug\NeuronSite.pdb
